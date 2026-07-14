@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Database locale (SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# Test results
+TestResults/
+
+# Rider/JetBrains (se mai lo usi)
+.idea/
